@@ -25,7 +25,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution](https://github.com/SaeneArmaan/Results-Summary-Component)
-- Live Site URL: [Live URL](https://your-live-site-url.com)
+- Live Site URL: [Live URL](https://result-summary-component-saenearmaan.netlify.app/)
 
 ### Built with
 
